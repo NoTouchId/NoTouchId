@@ -1,35 +1,31 @@
-# Hi
-
+# Hello👋
 <table>
-  <tr>
-    <td width="60%" valign="top">
-      
-      ### ⌨️ Languages
-      <img src="https://skillicons.dev/icons?i=js,py,php,html,css" />
+<tr>
+<td width="60%" valign="top">
 
-      ### 🎨 Frontend
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+### ⌨️ Languages
+<img src="https://skillicons.dev/icons?i=js,py,php,html,css" />
 
-      ### ⚙️ Backend, DB & Cloud
-      <img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,postgres,sqlite,redis,nginx,aws" />
+### 📚 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,tailwind,bootstrap" />
 
-      ### 🛠️ Tools & DevOps
-      <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" />
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=nginx,docker,aws,git,linux,vscode" />
 
-      <br/><br/>
-      
-      
-    </td>
-    
-    <td width="40%" valign="top">
-      
-      ### 📊 My Stats
-      <img src="https://github-readme-stats.vercel.app/api?username=NoTouchId&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-      
-      <br/>
-      
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoTouchId&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+### 🌟 Others
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis" />
+<br/>
 
-    </td>
-  </tr>
+</td>
+<td width="40%" valign="top">
+
+### 📊 My Stats
+<img src="https://github-readme-stats.vercel.app/api?username=NoTouchId&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoTouchId&layout=compact&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
 </table>
