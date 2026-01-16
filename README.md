@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi
 
-<!--
-**NoTouchId/NoTouchId** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      
+      ### ⌨️ Languages
+      <img src="https://skillicons.dev/icons?i=js,py,php,html,css" />
 
-Here are some ideas to get you started:
+      ### 🎨 Frontend
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      ### ⚙️ Backend, DB & Cloud
+      <img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,postgres,sqlite,redis,nginx,aws" />
+
+      ### 🛠️ Tools & DevOps
+      <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" />
+
+      <br/><br/>
+      
+      
+    </td>
+    
+    <td width="40%" valign="top">
+      
+      ### 📊 My Stats
+      <img src="https://github-readme-stats.vercel.app/api?username=NoTouchId&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+      
+      <br/>
+      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoTouchId&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+
+    </td>
+  </tr>
+</table>
