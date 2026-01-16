@@ -20,11 +20,11 @@
 <td width="40%" valign="top">
 
 ### 📊 My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=NoTouchId&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=NoTouchId&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoTouchId&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoTouchId&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </td>
 </tr>
