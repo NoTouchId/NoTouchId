@@ -3,17 +3,17 @@
 <tr>
 <td width="60%" valign="top">
 
-### ⌨️ Languages
+### 🌐 Languages
 <img src="https://skillicons.dev/icons?i=js,py,php,html,css" />
 
-### 📚 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,tailwind,bootstrap" />
+### 🎨 Frontend & Styling
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=nginx,docker,aws,git,linux,vscode" />
+### ⚙️ Backend, DB & Cloud
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,postgres,sqlite,redis,nginx,aws" />
 
-### 🌟 Others
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis" />
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" />
 <br/>
 
 </td>
