@@ -2,10 +2,10 @@
 
 <div align="center">
 <a href="https://github.com/NoTouchId">
-<img src="https://github-readme-stats-kohl-pi-58.vercel.app/api/top-langs/?username=NoTouchId&layout=compact&bg_color=2e3322&title_color=ffffff&text_color=c0c0c0&border_color=2e3322&hide_border=true&langs_count=10&count_private=true&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5" alt="Most Used Languages" height="160px"/>
+<img src="https://github-readme-stats-kohl-pi-58.vercel.app/api/top-langs/?username=NoTouchId&layout=compact&bg_color=2e3322&title_color=ffffff&text_color=c0c0c0&border_color=2e3322&hide_border=true&langs_count=6&count_private=true&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5" alt="Most Used Languages" height="560px"/>
 </a>
 <a href="https://github.com/NoTouchId">
-<img src="https://github-readme-stats-kohl-pi-58.vercel.app/api?username=NoTouchId&show_icons=true&bg_color=2e3322&title_color=ffffff&text_color=c0c0c0&icon_color=8fbc8f&border_color=2e3322&hide_border=true&count_private=true&include_all_commits=true" alt="NoTouchId's Github Stats" height="160px"/>
+<img src="https://github-readme-stats-kohl-pi-58.vercel.app/api?username=NoTouchId&show_icons=true&bg_color=2e3322&title_color=ffffff&text_color=c0c0c0&icon_color=8fbc8f&border_color=2e3322&hide_border=true&count_private=true&include_all_commits=true" alt="NoTouchId's Github Stats" height="560px"/>
 </div>
 
 <br/>
