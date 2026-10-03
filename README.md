@@ -29,5 +29,5 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/NoTouchId/NoTouchId/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+<img src="cards/dream-team.svg" alt="Pokemon dream team" />
 </div>
