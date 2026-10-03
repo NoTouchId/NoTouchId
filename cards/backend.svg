@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="244" viewBox="0 0 260 244" font-family="Consolas,'Courier New',monospace">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a4230"/><stop offset="1" stop-color="#2e3322"/></linearGradient></defs>
+<rect x="1" y="1" width="258" height="242" rx="16" fill="url(#g)" stroke="#8fbc8f" stroke-opacity=".45" stroke-width="1.5"/>
+<text x="18" y="34" fill="#ffffff" font-size="16" font-weight="700">Backend &amp; Data</text>
+<rect x="18" y="42" width="36" height="3" rx="1.5" fill="#8fbc8f"/>
+<rect x="18.0" y="64" width="73.1" height="26" rx="13" fill="#009688" stroke="#ffffff" stroke-opacity=".25"/>
+<text x="54.5" y="81" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">FastAPI</text>
+<rect x="99.1" y="64" width="58.5" height="26" rx="13" fill="#3B3B3B" stroke="#ffffff" stroke-opacity=".25"/>
+<text x="128.3" y="81" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">Flask</text>
+<rect x="165.6" y="64" width="65.8" height="26" rx="13" fill="#092E20" stroke="#ffffff" stroke-opacity=".25"/>
+<text x="198.5" y="81" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">Django</text>
+<rect x="18.0" y="98" width="73.1" height="26" rx="13" fill="#43853D" stroke="#ffffff" stroke-opacity=".25"/>
+<text x="54.5" y="115" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">Node.js</text>
+<rect x="99.1" y="98" width="73.1" height="26" rx="13" fill="#47A248" stroke="#ffffff" stroke-opacity=".25"/>
+<text x="135.6" y="115" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">MongoDB</text>
+<rect x="180.2" y="98" width="58.5" height="26" rx="13" fill="#4479A1" stroke="#ffffff" stroke-opacity=".25"/>
+<text x="209.4" y="115" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">MySQL</text>
+<rect x="18.0" y="132" width="80.4" height="26" rx="13" fill="#316192" stroke="#ffffff" stroke-opacity=".25"/>
+<text x="58.2" y="149" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">Postgres</text>
+<rect x="106.4" y="132" width="65.8" height="26" rx="13" fill="#003B57" stroke="#ffffff" stroke-opacity=".25"/>
+<text x="139.3" y="149" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">SQLite</text>
+<rect x="180.2" y="132" width="58.5" height="26" rx="13" fill="#DC382D" stroke="#ffffff" stroke-opacity=".25"/>
+<text x="209.4" y="149" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">Redis</text>
+</svg>
